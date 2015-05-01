@@ -1,2 +1,2 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Executar a classe abaixo, e selecionar um arquivo de texto com o formato vÃ¡lido.
+/Pre_Dojo/src/br/com/logreader/reader/LogFileReader.java
